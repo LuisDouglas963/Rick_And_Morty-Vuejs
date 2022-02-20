@@ -1,13 +1,13 @@
-# front-rick-and-morty
 
-## 🚧 Under construction 🚧
+
+# 🚧 Under construction 🚧
 
 ## Project setup
 ```
 yarn i
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```
 yarn dev
 ```
