@@ -1,5 +1,7 @@
 # front-rick-and-morty
 
+## Under construction
+
 ## Project setup
 ```
 npm install
